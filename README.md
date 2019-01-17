@@ -1,0 +1,2 @@
+# Safelinku
+Safelink Blog
